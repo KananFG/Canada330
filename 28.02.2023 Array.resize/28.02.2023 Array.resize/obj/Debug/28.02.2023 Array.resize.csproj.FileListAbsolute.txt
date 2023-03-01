@@ -1,0 +1,7 @@
+C:\Users\Admin™\source\repos\28.02.2023 Array.resize\28.02.2023 Array.resize\obj\Debug\28.02.2023 Array.resize.csproj.AssemblyReference.cache
+C:\Users\Admin™\source\repos\28.02.2023 Array.resize\28.02.2023 Array.resize\obj\Debug\28.02.2023 Array.resize.csproj.CoreCompileInputs.cache
+C:\Users\Admin™\source\repos\28.02.2023 Array.resize\28.02.2023 Array.resize\bin\Debug\28.02.2023 Array.resize.exe.config
+C:\Users\Admin™\source\repos\28.02.2023 Array.resize\28.02.2023 Array.resize\bin\Debug\28.02.2023 Array.resize.exe
+C:\Users\Admin™\source\repos\28.02.2023 Array.resize\28.02.2023 Array.resize\bin\Debug\28.02.2023 Array.resize.pdb
+C:\Users\Admin™\source\repos\28.02.2023 Array.resize\28.02.2023 Array.resize\obj\Debug\28.02.2023 Array.resize.exe
+C:\Users\Admin™\source\repos\28.02.2023 Array.resize\28.02.2023 Array.resize\obj\Debug\28.02.2023 Array.resize.pdb

@@ -1,0 +1,7 @@
+C:\Users\Admin™\Desktop\Class330\Class330\bin\Debug\Class330.exe.config
+C:\Users\Admin™\Desktop\Class330\Class330\bin\Debug\Class330.exe
+C:\Users\Admin™\Desktop\Class330\Class330\bin\Debug\Class330.pdb
+C:\Users\Admin™\Desktop\Class330\Class330\obj\Debug\Class330.csproj.AssemblyReference.cache
+C:\Users\Admin™\Desktop\Class330\Class330\obj\Debug\Class330.csproj.CoreCompileInputs.cache
+C:\Users\Admin™\Desktop\Class330\Class330\obj\Debug\Class330.exe
+C:\Users\Admin™\Desktop\Class330\Class330\obj\Debug\Class330.pdb
